@@ -1,0 +1,3 @@
+C:/Users/mikol/CLionProjects/gra_turowa/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/mikol/CLionProjects/gra_turowa/cmake-build-debug/CMakeFiles/gra_turowa.dir
+C:/Users/mikol/CLionProjects/gra_turowa/cmake-build-debug/CMakeFiles/rebuild_cache.dir
