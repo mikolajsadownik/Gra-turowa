@@ -1,6 +1,5 @@
 # Gra turowa
- Projekt polega na stworzeniu aplikacji konsolowej symulującej grę walki turowej z 
-implementacją oddziaływań między przeciwnikami (przykład: system walki w grze Pokemon).
+Aplikacja konsolowa symulująca grę walki turowej z implementacją oddziaływań między przeciwnikami.
 # Opis
 Gracz posiada zestaw 6 stworzeń którymi kieruje. Celem gry jest pokonanie wszystkich 
 przeciwników stojących na drodze, z jak najmniejszym kosztem dla swojej drużyny.
